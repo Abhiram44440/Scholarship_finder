@@ -11,7 +11,7 @@ cd backend
 npm i 
 npm start
 ```
-### Run frontend
+### Run frontend..
 Then open a new terminal and
 ```bash
 cd scholarship-finder
