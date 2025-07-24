@@ -1,8 +1,8 @@
 ## Run Locally.
 ### First clone the repo
 ```bash
-git clone https://github.com/praneethgarre/ScolarshipFinder.git
-cd ScholarshipFinder
+git clone https://github.com/Abhiram44440/Scholarship_finder.git
+cd Scholarship_finder
 ```
 
 ### Run backend.
