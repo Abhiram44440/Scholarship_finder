@@ -4,7 +4,7 @@
 git clone https://github.com/Abhiram44440/Scholarship_finder.git
 cd Scholarship_finder
 ```
-
+ 
 ### Run backend.
 ```bash
 cd backend
